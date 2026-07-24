@@ -1,6 +1,7 @@
 # STAR WARS RACER SPLITS (For LibreSplit)
 
-Clean presized json conversions of the speedrun.com [lss splits](https://www.speedrun.com/swe1r/resources)
+**Clean presized json conversions of the speedrun.com lss [splits](https://www.speedrun.com/swe1r/resources)**  
+Credit to the LibreSplit [converter](https://libresplit.org/converter) for the base converion of this repos splits)
 
 ### INCLUDED
 * Base versions on each split
@@ -17,7 +18,8 @@ The 3 varients of each split are found in the "Varients" directiory.
 The different varients are important if you will be running multiple versions of the same category (ex. Upgrades & No Upgrades) this way they will not overright eachother.
 IGT varients are intended for testing the Total Race Times of specific upgrade routes, so excluding menu time. 
 
-### RESOURCES
-* You won't get far without [LibreSplit](https://github.com/LibreSplit/LibreSplit/tree/main)
-* These splits are best used in conjunction with the [swe1r-autosplitter](https://github.com/Wuzzmi/swe1r-autosplitter)
-* If you have old times on lss splits convert them [here](https://libresplit.org/converter) (credit to this converter for the creation of this repos splits)
+### USAGE
+* Download the splits / split of you choice
+* In [LibreSplit](https://github.com/LibreSplit/LibreSplit/tree/main) right click, choose "Open Split" open your prefered split
+   
+The splits should now be loaded and funtional. If you choose to use an [autosplitter](https://github.com/Wuzzmi/swe1r-autosplitter) open it, enable it, and run the game.
