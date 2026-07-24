@@ -21,6 +21,7 @@ IGT varients are intended for testing the Total Race Times of specific upgrade r
 ### USAGE
 * Download the splits / split of you choice
 * In [LibreSplit](https://github.com/LibreSplit/LibreSplit/tree/main) right click, choose "Open Split" open your prefered split
-[!Open Split in LibreSplit](https://github.com/Wuzzmi/swe1r-splits-libresplit/blob/master/img/open-split-libresplit.png)
+   
+![Open Split in LibreSplit](https://github.com/Wuzzmi/swe1r-splits-libresplit/blob/master/img/open-split-libresplit.png)
    
 The splits should now be loaded and funtional. If you choose to use an [autosplitter](https://github.com/Wuzzmi/swe1r-autosplitter) open it, enable it, and run the game.
