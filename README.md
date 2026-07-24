@@ -13,7 +13,7 @@ Clean presized json conversions of the speedrun.com [lss splits](https://www.spe
 The splits have been given an apropriate default size, which can be changed in each file.
 Fresh, base versions of each split are in the "Base" directory.
 LibreSplit current does not support the subsplit versions. They are stored in "Subsplit Versions" directory. If they become of use at some point they're here.
-The 3 varients of each split are found in the "Varients Structure" directiory.
+The 3 varients of each split are found in the "Varients" directiory.
 The different varients are important if you will be running multiple versions of the same category (ex. Upgrades & No Upgrades) this way they will not overright eachother.
 IGT varients are intended for testing the Total Race Times of specific upgrade routes, so excluding menu time. 
 
