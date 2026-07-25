@@ -1,6 +1,8 @@
 {
-  "title": "Star Wars Episode I: Racer any% [IGT]",
+  "title": "Star Wars Episode I: Racer Any% [IGT]",
   "attempt_count": 0,
+  "width": 300,
+  "height": 375,
   "splits": [
     {
       "title": "Executioner",
@@ -44,7 +46,5 @@
       "best_time": "0.000000",
       "best_segment": "0.000000"
     }
-  ],
-  "width": 300,
-  "height": 375
+  ]
 }
