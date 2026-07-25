@@ -19,7 +19,7 @@ LibreSplit currently does not support subsplits. If they become of use at some p
   
 The 3 variants of each split are found in the categorized "Variants" directory. Each of the variants has a unique title that matches it's format, so they can be differentiated from one another. These variants are important if you will be running multiple versions of the same category (ex. Upgrades & No Upgrades). This way they will not overwrite each other. 
   
-IGT variants are intended for testing the Total Race Times of specific upgrade routes, thus exclude menu time. 
+IGT variants are intended for testing the "total in race game time" of specific upgrade routes. Since these runs exclude menu time, they need their own splits. 
   
 Use which ever you like, however you like. The categorized variant directory is just what I found to be useful.
   
@@ -28,7 +28,7 @@ Use which ever you like, however you like. The categorized variant directory is 
 * [Autosplitter](https://github.com/Wuzzmi/swe1r-autosplitter-libresplit/tree/main) for Star Wars Racer (recommened)  
    
 ### USAGE
-* Download the splits
+* [Download](https://github.com/Wuzzmi/swe1r-splits-libresplit/archive/refs/heads/main.zip) the splits
 * In [LibreSplit](https://github.com/LibreSplit/LibreSplit/tree/main) right click, select "Open Splits"
   
 ![Rightclick in LibreSplit](https://github.com/Wuzzmi/swe1r-splits-libresplit/blob/main/img/rightclick-split-libresplit.png)
