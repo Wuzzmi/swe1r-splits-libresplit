@@ -27,6 +27,7 @@ Use which ever you like, however you like. The categorized variant directory is 
 * Download the splits
 * In [LibreSplit](https://github.com/LibreSplit/LibreSplit/tree/main) right click, choose "Open Split", then select and open it.
    
+![Rightclick in LibreSplit](https://github.com/Wuzzmi/swe1r-splits-libresplit/blob/master/img/rightclick-split-libresplit.png)
 ![Open Split in LibreSplit](https://github.com/Wuzzmi/swe1r-splits-libresplit/blob/master/img/open-split-libresplit.png)
    
 The splits should now be loaded and functional. If you choose to use an [autosplitter](https://github.com/Wuzzmi/swe1r-autosplitter) open it, and enable it. Now run the game.
