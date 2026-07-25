@@ -11,7 +11,17 @@
 * ~~Subsplit versions (unsupported)~~
 
 ### ABOUT THIS REPO
-The splits are set with an appropriate default size, which can be changed at the top of each file. Default versions of each split are in the "Default" directory. LibreSplit currently does not support subsplits. The subsplit versions are stored in the "Subsplit Versions" directory. If they become of use at some point they're here. The 3 variants of each split are found in the categorized "Variants" directory. Each of the variants has a unique title that matches it's format in order to tell them apart. These variants are important if you will be running multiple versions of the same category (ex. Upgrades & No Upgrades). This way they will not overwrite each other. IGT variants are intended for testing the Total Race Times of specific upgrade routes, thus exclude menu time. Use which ever you like, however you like. The categorized variant directory is just what I found to be useful.
+All splits are set with an appropriate default size, which can be changed at the top of each file.  
+  
+Default versions of each split are in the "Default" directory. 
+  
+LibreSplit currently does not support subsplits. If they become of use at some point they are stored in the "Subsplit Versions" directory. 
+  
+The 3 variants of each split are found in the categorized "Variants" directory. Each of the variants has a unique title that matches it's format, so they can be differentiated from one another. These variants are important if you will be running multiple versions of the same category (ex. Upgrades & No Upgrades). This way they will not overwrite each other. 
+  
+IGT variants are intended for testing the Total Race Times of specific upgrade routes, thus exclude menu time. 
+  
+Use which ever you like, however you like. The categorized variant directory is just what I found to be useful.
   
 ### USAGE
 * Download the splits
