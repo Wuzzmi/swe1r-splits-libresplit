@@ -1,6 +1,6 @@
 # STAR WARS RACER SPLITS (For LibreSplit)
 
-**Fresh, Star Wars Episode I Racer splits for use with the [LibreSplit](https://github.com/Wuzzmi/swe1r-splits-libresplit/blob/master/img/open-split-libresplit.png) autosplitter**  
+**Fresh, Star Wars Episode I Racer splits for use with the [LibreSplit](https://github.com/Wuzzmi/swe1r-splits-libresplit/blob/master/img/open-split-libresplit.png) Autosplitter**  
   
 ### INCLUDES
 * Default versions of each split
@@ -23,11 +23,23 @@ IGT variants are intended for testing the Total Race Times of specific upgrade r
   
 Use which ever you like, however you like. The categorized variant directory is just what I found to be useful.
   
+### RESOURCES
+* [LibreSplit](https://github.com/LibreSplit/LibreSplit/tree/main) (required)
+* [Autosplitter](https://github.com/Wuzzmi/swe1r-autosplitter-libresplit/tree/main) for Star Wars Racer (recommened)  
+   
 ### USAGE
 * Download the splits
-* In [LibreSplit](https://github.com/LibreSplit/LibreSplit/tree/main) right click, choose "Open Split", then select and open it.
+* In [LibreSplit](https://github.com/LibreSplit/LibreSplit/tree/main) right click, select "Open Splits"
+  
+![Rightclick in LibreSplit](https://github.com/Wuzzmi/swe1r-splits-libresplit/blob/main/img/rightclick-split-libresplit.png)
+
+* Now select a split and hit "Open"  
    
-![Rightclick in LibreSplit](https://github.com/Wuzzmi/swe1r-splits-libresplit/blob/master/img/rightclick-split-libresplit.png)
-![Open Split in LibreSplit](https://github.com/Wuzzmi/swe1r-splits-libresplit/blob/master/img/open-split-libresplit.png)
+![Open Split in LibreSplit](https://github.com/Wuzzmi/swe1r-splits-libresplit/blob/main/img/open-split-libresplit.png)
    
-The splits should now be loaded and functional. If you choose to use an [autosplitter](https://github.com/Wuzzmi/swe1r-autosplitter) open it, and enable it. Now run the game.
+* The splits should now be loaded and functional
+* If you choose to use an [autosplitter](https://github.com/Wuzzmi/swe1r-autosplitter) open and enable it
+* Now run the game
+  
+## LICENSE
+This repo is unlicensed.
