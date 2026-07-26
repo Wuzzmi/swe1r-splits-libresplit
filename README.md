@@ -29,7 +29,8 @@ Use which ever you like, however you like. The categorized variant directory is 
    
 ### USAGE
 * [Download](https://github.com/Wuzzmi/swe1r-splits-libresplit/archive/refs/heads/main.zip) and extract the splits
-* Place either the extracted folder, or just the splits you want to use, where you prefer; commonly in "~/.config/libresplit/splits/"
+* Place either the extracted folder, or just the splits you want to use, where you prefer
+  * commonly in: ```~/.config/libresplit/splits/```
 * In [LibreSplit](https://github.com/LibreSplit/LibreSplit/tree/main) right click, select "Open Splits"
   
 ![Rightclick in LibreSplit](https://github.com/Wuzzmi/swe1r-splits-libresplit/blob/main/img/rightclick-split-libresplit.png)
