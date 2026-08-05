@@ -5,14 +5,12 @@
 ### INCLUDES
 * Default versions of each split
 * Categorized directory with 3 variants of each split
-  * Upgrades    - (LRT) Real Time no loads 
-  * No Upgrades - (LRT) Real Time no loads 
-  * Upgrades    - (IGT) In Race Game Time  
-* ~~Subsplit versions (unsupported)~~
+  * Upgrades    - Real Time no loads (LRT) 
+  * No Upgrades - Real Time no loads (LRT) 
+  * Upgrades    - In Race Game Time (IGT)  
+* Subsplit versions (unsupported)
 
 ### ABOUT THIS REPO
-All splits are set with an appropriate default size, which can be changed at the top of each file.  
-  
 Default versions of each split are in the "Default" directory. 
   
 LibreSplit currently does not support subsplits. If they become of use at some point, they are stored in the "Subsplit Versions" directory. 
@@ -28,20 +26,12 @@ Use which ever you like, however you like. The categorized variant directory is 
 * [Autosplitter](https://github.com/Wuzzmi/swe1r-autosplitter-libresplit/tree/main) for Star Wars Racer (recommened)  
    
 ### USAGE
-* [Download](https://github.com/Wuzzmi/swe1r-splits-libresplit/archive/refs/heads/main.zip) and extract the splits
-* Place either the extracted folder, or just the splits you want to use, where you prefer
-  * commonly in: ```~/.config/libresplit/splits/```
-* In [LibreSplit](https://github.com/LibreSplit/LibreSplit/tree/main) right click, select "Open Splits"
+* Open [LibreSplit](https://github.com/LibreSplit/LibreSplit/tree/main)
+* right click, and open a split file
   
 ![Rightclick in LibreSplit](https://github.com/Wuzzmi/swe1r-splits-libresplit/blob/main/img/rightclick-split-libresplit.png)
 
-* Now select a split file and hit "Open"  
-   
-![Open Split in LibreSplit](https://github.com/Wuzzmi/swe1r-splits-libresplit/blob/main/img/open-split-libresplit.png)
-   
-* The splits should now be loaded and functional
-* If you choose to use an [autosplitter](https://github.com/Wuzzmi/swe1r-autosplitter) open and enable it
-* Now run the game
+The splits should now be loaded and functional
   
 ## LICENSE
 This repo is unlicensed.
