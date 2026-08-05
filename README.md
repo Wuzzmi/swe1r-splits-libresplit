@@ -26,7 +26,7 @@ Use which ever you like, however you like. The categorized variant directory is 
 * [Autosplitter](https://github.com/Wuzzmi/swe1r-autosplitter-libresplit/tree/main) for Star Wars Racer (recommened)  
    
 ### USAGE
-* Open [LibreSplit](https://github.com/LibreSplit/LibreSplit/tree/main)
+* Open LibreSplit
 * right click, and open a split file
   
 ![Rightclick in LibreSplit](https://github.com/Wuzzmi/swe1r-splits-libresplit/blob/main/img/rightclick-split-libresplit.png)
