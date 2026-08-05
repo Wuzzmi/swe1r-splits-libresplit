@@ -23,7 +23,7 @@ Use which ever you like, however you like. The categorized variant directory is 
   
 ### RESOURCES
 * [LibreSplit](https://github.com/LibreSplit/LibreSplit/tree/main) (required)
-* [Autosplitter](https://github.com/Wuzzmi/swe1r-autosplitter-libresplit/tree/main) for Star Wars Racer (recommened)  
+* [Autosplitter script](https://github.com/Wuzzmi/swe1r-autosplitter-libresplit/tree/main) for Star Wars Racer (recommened)  
    
 ### USAGE
 * Open LibreSplit
