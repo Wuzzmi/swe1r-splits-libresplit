@@ -1,6 +1,6 @@
 # STAR WARS RACER SPLITS (For LibreSplit)
 
-**Fresh, Star Wars Episode I Racer splits for use with the [LibreSplit](https://github.com/Wuzzmi/swe1r-splits-libresplit/blob/master/img/open-split-libresplit.png) Autosplitter**  
+**Star Wars Episode I Racer split files for use with [LibreSplit](https://github.com/Wuzzmi/swe1r-splits-libresplit/blob/master/img/open-split-libresplit.png) and this [Autosplitter script](https://github.com/Wuzzmi/swe1r-autosplitter-libresplit)**
   
 ### INCLUDES
 * Default versions of each split
@@ -9,9 +9,12 @@
   * No Upgrades - Real Time no loads (LRT) 
   * Upgrades    - In Race Game Time (IGT)  
 * Subsplit versions (unsupported)
+* All splits include settings for this [Autosplitter script](https://github.com/Wuzzmi/swe1r-autosplitter-libresplit)
 
 ### ABOUT THIS REPO
 Default versions of each split are in the "Default" directory. 
+
+Settings for this [Autosplitter script](https://github.com/Wuzzmi/swe1r-autosplitter-libresplit) can be adjusted near the bottom of each split file under the "auto_splitter_settings" section.
   
 LibreSplit currently does not support subsplits. If they become of use at some point, they are stored in the "Subsplit Versions" directory. 
   
