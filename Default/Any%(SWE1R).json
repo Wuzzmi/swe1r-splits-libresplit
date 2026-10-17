@@ -1,6 +1,7 @@
 {
   "title": "Star Wars Episode I: Racer Any%",
   "attempt_count": 0,
+  "finished_count": null,
   "splits": [
     {
       "title": "Executioner",
@@ -45,6 +46,16 @@
       "best_segment": "0.000000"
     }
   ],
-   "width": 300,
+  "auto_splitter": "",
+  "auto_splitter_settings": {
+    "preset": 1,
+    "loadlessRT": true,
+    "require1st": false,
+    "startRaceTrig": false,
+    "autoReset": 2,
+    "removeTabbedTime": false
+  },
+  "comparison_method": 1,
+  "width": 300,
   "height": 375
 }

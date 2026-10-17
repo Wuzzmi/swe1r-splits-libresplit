@@ -1,28 +1,100 @@
 {
-  "title": "Star Wars Episode I: Racer All tracks NG+",
+  "title": "Star Wars Episode I: Racer 100%",
   "attempt_count": 0,
   "finished_count": 0,
   "splits": [
     {
-      "title": "-Ando Prime Centrum",
+      "title": "-Sunken City",
       "time": "0.000000",
       "best_time": "0.000000",
       "best_segment": "0.000000"
     },
     {
-      "title": "-Abyss",
+      "title": "-Howler Gorge",
       "time": "0.000000",
       "best_time": "0.000000",
       "best_segment": "0.000000"
     },
     {
-      "title": "-The Gauntlet",
+      "title": "-Dug Derby",
       "time": "0.000000",
       "best_time": "0.000000",
       "best_segment": "0.000000"
     },
     {
-      "title": "{Invitational Circuit}Inferno",
+      "title": "-Scrapper's Run",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+      "title": "-Zugga Challenge",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+      "title": "-Baroo Coast",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+      "title": "{Semi-Pro Circuit}Bumpy's Breakers",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+      "title": "Abyss",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+      "title": "-The Boonta Training Course",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+      "title": "-Mon Gazza Speedway",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+      "title": "-Beedo's Wild Ride",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+      "title": "-Aquilaris Classic",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+      "title": "-Malastare 100",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+      "title": "-Vengeance",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+      "title": "{Amateur Circuit}Spice Mine Run",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+      "title": "Ando Prime Centrum",
       "time": "0.000000",
       "best_time": "0.000000",
       "best_segment": "0.000000"
@@ -70,90 +142,28 @@
       "best_segment": "0.000000"
     },
     {
-      "title": "-Bumpy's Breakers",
+      "title": "The Gauntlet",
       "time": "0.000000",
       "best_time": "0.000000",
       "best_segment": "0.000000"
     },
     {
-      "title": "-Baroo Coast",
-      "time": "0.000000",
-      "best_time": "0.000000",
-      "best_segment": "0.000000"
-    },
-    {
-      "title": "-Zugga Challenge",
-      "time": "0.000000",
-      "best_time": "0.000000",
-      "best_segment": "0.000000"
-    },
-    {
-      "title": "-Scrapper's Run",
-      "time": "0.000000",
-      "best_time": "0.000000",
-      "best_segment": "0.000000"
-    },
-    {
-      "title": "-Dug Derby",
-      "time": "0.000000",
-      "best_time": "0.000000",
-      "best_segment": "0.000000"
-    },
-    {
-      "title": "-Howler's Gorge",
-      "time": "0.000000",
-      "best_time": "0.000000",
-      "best_segment": "0.000000"
-    },
-    {
-      "title": "{Semi-Pro Circuit}Sunken City",
-      "time": "0.000000",
-      "best_time": "0.000000",
-      "best_segment": "0.000000"
-    },
-    {
-      "title": "-The Boonta Training Course",
-      "time": "0.000000",
-      "best_time": "0.000000",
-      "best_segment": "0.000000"
-    },
-    {
-      "title": "-Mon Gazza Speedway",
-      "time": "0.000000",
-      "best_time": "0.000000",
-      "best_segment": "0.000000"
-    },
-    {
-      "title": "-Beedo's Wild Ride",
-      "time": "0.000000",
-      "best_time": "0.000000",
-      "best_segment": "0.000000"
-    },
-    {
-      "title": "-Aquilaris Classic",
-      "time": "0.000000",
-      "best_time": "0.000000",
-      "best_segment": "0.000000"
-    },
-    {
-      "title": "-Malastare 100",
-      "time": "0.000000",
-      "best_time": "0.000000",
-      "best_segment": "0.000000"
-    },
-    {
-      "title": "-Vengeance",
-      "time": "0.000000",
-      "best_time": "0.000000",
-      "best_segment": "0.000000"
-    },
-    {
-      "title": "{Amateur Circuit}Spice Mine Run",
+      "title": "Inferno",
       "time": "0.000000",
       "best_time": "0.000000",
       "best_segment": "0.000000"
     }
   ],
+  "auto_splitter": "",
+  "auto_splitter_settings": {
+    "preset": 2,
+    "loadlessRT": true,
+    "require1st": true,
+    "startRaceTrig": false,
+    "autoReset": 2,
+    "removeTabbedTime": false
+  },
+  "comparison_method": 1,
   "width": 300,
   "height": 375
 }

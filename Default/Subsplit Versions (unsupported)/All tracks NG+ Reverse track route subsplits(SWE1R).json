@@ -1,52 +1,28 @@
 {
-  "title": "Star Wars Episode I: Racer 100%",
+  "title": "Star Wars Episode I: Racer All tracks NG+",
   "attempt_count": 0,
   "finished_count": 0,
   "splits": [
     {
-      "title": "-Sunken City",
+      "title": "-Ando Prime Centrum",
       "time": "0.000000",
       "best_time": "0.000000",
       "best_segment": "0.000000"
     },
     {
-      "title": "-Howler Gorge",
+      "title": "-Abyss",
       "time": "0.000000",
       "best_time": "0.000000",
       "best_segment": "0.000000"
     },
     {
-      "title": "-Dug Derby",
+      "title": "-The Gauntlet",
       "time": "0.000000",
       "best_time": "0.000000",
       "best_segment": "0.000000"
     },
     {
-      "title": "-Scrapper's Run",
-      "time": "0.000000",
-      "best_time": "0.000000",
-      "best_segment": "0.000000"
-    },
-    {
-      "title": "-Zugga Challenge",
-      "time": "0.000000",
-      "best_time": "0.000000",
-      "best_segment": "0.000000"
-    },
-    {
-      "title": "-Baroo Coast",
-      "time": "0.000000",
-      "best_time": "0.000000",
-      "best_segment": "0.000000"
-    },
-    {
-      "title": "{Semi-Pro Circuit}Bumpy's Breakers",
-      "time": "0.000000",
-      "best_time": "0.000000",
-      "best_segment": "0.000000"
-    },
-    {
-      "title": "Abyss",
+      "title": "{Invitational Circuit}Inferno",
       "time": "0.000000",
       "best_time": "0.000000",
       "best_segment": "0.000000"
@@ -94,7 +70,43 @@
       "best_segment": "0.000000"
     },
     {
-      "title": "The Gauntlet",
+      "title": "-Bumpy's Breakers",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+      "title": "-Baroo Coast",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+      "title": "-Zugga Challenge",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+      "title": "-Scrapper's Run",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+      "title": "-Dug Derby",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+      "title": "-Howler's Gorge",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+      "title": "{Semi-Pro Circuit}Sunken City",
       "time": "0.000000",
       "best_time": "0.000000",
       "best_segment": "0.000000"
@@ -140,20 +152,18 @@
       "time": "0.000000",
       "best_time": "0.000000",
       "best_segment": "0.000000"
-    },
-    {
-      "title": "Ando Prime Centrum",
-      "time": "0.000000",
-      "best_time": "0.000000",
-      "best_segment": "0.000000"
-    },
-    {
-      "title": "Inferno",
-      "time": "0.000000",
-      "best_time": "0.000000",
-      "best_segment": "0.000000"
     }
   ],
+  "auto_splitter": "",
+  "auto_splitter_settings": {
+    "preset": 3,
+    "loadlessRT": true,
+    "require1st": false,
+    "startRaceTrig": true,
+    "autoReset": 2,
+    "removeTabbedTime": false
+  },
+  "comparison_method": 1,
   "width": 300,
   "height": 375
 }
