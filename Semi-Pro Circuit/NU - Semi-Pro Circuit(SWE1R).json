@@ -1,5 +1,6 @@
 {
-  "title": "Star Wars Episode I: Racer Semi-Pro Circuit",
+  "name": "Star Wars Episode I Racer:",
+  "category": "\nSemi-Pro Circuit - No Upgrades",
   "attempt_count": 0,
   "finished_count": 0,
   "splits": [
@@ -48,12 +49,11 @@
   ],
   "auto_splitter": "",
   "auto_splitter_settings": {
-    "category": 1,
     "autoReset": 2,
-    "useInRaceGT": false,
     "removeTabbedTime": false,
     "require1st": false,
-    "startRaceTrig": false
+    "startRaceTrig": false,
+    "useInRaceGT": false
   },
   "comparison_method": 1,
   "width": 300,

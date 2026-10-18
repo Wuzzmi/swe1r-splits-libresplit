@@ -1,5 +1,6 @@
 {
-  "title": "Star Wars Episode I: Racer All tracks NG+",
+  "name": "Star Wars Episode I Racer:",
+  "category": "\nAll tracks NG+",
   "attempt_count": 0,
   "finished_count": 0,
   "splits": [
@@ -156,12 +157,11 @@
   ],
   "auto_splitter": "",
   "auto_splitter_settings": {
-    "category": 3,
     "autoReset": 2,
-    "useInRaceGT": false,
     "removeTabbedTime": false,
     "require1st": false,
-    "startRaceTrig": true
+    "startRaceTrig": true,
+    "useInRaceGT": false
   },
   "comparison_method": 1,
   "width": 300,

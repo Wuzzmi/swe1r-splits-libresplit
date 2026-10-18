@@ -1,5 +1,6 @@
 {
-  "title": "Star Wars Episode I: Racer 100% [IGT]",
+  "name": "Star Wars Episode I Racer:",
+  "category": "\n100% - In Game Time",
   "attempt_count": 0,
   "finished_count": 0,
   "splits": [
@@ -156,12 +157,11 @@
   ],
   "auto_splitter": "",
   "auto_splitter_settings": {
-    "category": 2,
     "autoReset": 2,
-    "useInRaceGT": true,
     "removeTabbedTime": false,
     "require1st": true,
-    "startRaceTrig": false
+    "startRaceTrig": false,
+    "useInRaceGT": true
   },
   "comparison_method": 1,
   "width": 300,

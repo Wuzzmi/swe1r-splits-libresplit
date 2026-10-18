@@ -1,5 +1,6 @@
 {
-  "title": "Star Wars Episode I: Racer 100% - No Upgrades",
+  "name": "Star Wars Episode I Racer:",
+  "category": "\n100% - No Upgrades",
   "attempt_count": 0,
   "finished_count": 0,
   "splits": [
@@ -156,12 +157,11 @@
   ],
   "auto_splitter": "",
   "auto_splitter_settings": {
-    "category": 2,
     "autoReset": 2,
-    "useInRaceGT": false,
     "removeTabbedTime": false,
     "require1st": true,
-    "startRaceTrig": false
+    "startRaceTrig": false,
+    "useInRaceGT": false
   },
   "comparison_method": 1,
   "width": 300,
