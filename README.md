@@ -10,7 +10,7 @@
 * All split files include settings for this [auto splitter script](https://github.com/Wuzzmi/SWE1R_LibreSplit-resources/tree/main/auto-splitter)
 
 ### RESOURCES
-* [Download](https://github.com/Wuzzmi/swe1r-splits-libresplit/archive/refs/heads/main.zip) split files
+* Download [split files](https://github.com/Wuzzmi/swe1r-splits-libresplit/archive/refs/heads/main.zip)
 * [LibreSplit](https://github.com/LibreSplit/LibreSplit/tree/main) (required)
 * [Auto splitter script](https://github.com/Wuzzmi/SWE1R_LibreSplit-resources/tree/main/auto-splitter) for Star Wars Racer (recommened)  
    
