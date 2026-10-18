@@ -32,7 +32,8 @@ Use which ever you like, however you like. The categorized variant directory is 
 * Open LibreSplit
 * right click, and open a split file
   
-![Rightclick in LibreSplit](https://github.com/Wuzzmi/swe1r-splits-libresplit/blob/main/img/rightclick-split-libresplit.png)
+![Rightclick in LibreSplit](https://github.com/Wuzzmi/repo-media/blob/main/Wuzzmi-LibreSplit-resources/img/rightclick-split-libresplit.png?raw=true)
+
 
 The splits should now be loaded and functional
   
