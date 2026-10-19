@@ -1,4 +1,4 @@
-# Star Wars Racer Splits Files (For LibreSplit)
+# Star Wars Racer - Splits Files (For LibreSplit)
 
 **Split files used with LibreSplit, for Star Wars Episode I Racer speedruns.**
   
@@ -17,11 +17,11 @@
    
 ### Split File Details  
 > [!note]
-> LibreSplit currently does not support subsplits. Once subsplits are supported they will added to this repo.
+> LibreSplit currently does not support subsplits. Once subsplits are supported they will be added to this repo.
   
 All split file variants have unique names that match their format so they can be differentiated from one another. These variants are important if you will be running multiple versions of the same category (ex. Upgrades & No Upgrades). This way they will not overwrite each other. 
   
-IGT variants are intended for runs that test the "total in race game time" of specific upgrade routes. Since these runs exclude menu time, they need their own split files. 
+IGT variants are intended for testing the "total in race game time" under differing run conditions (ex. varied upgrade routes, pods, etc.). Since these runs exclude menu time, they need their own split files. 
   
 ### Usage
 * Open LibreSplit
