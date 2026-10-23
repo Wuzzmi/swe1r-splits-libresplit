@@ -1,6 +1,6 @@
 # Star Wars Racer - Splits Files (For LibreSplit)
 
-**Split files used with LibreSplit, for Star Wars Episode I Racer speedruns.**
+**Split files used with LibreSplit, for Star Wars Episode I: Racer speedruns.**
   
 ### Features
 * Basic split files compariable to the .lss splits found in the speedrun.com [resources](https://www.speedrun.com/swe1r/resources).
@@ -13,7 +13,7 @@
 * [Auto splitter](https://github.com/Wuzzmi/swe1r_auto-splitter-libresplit) for Star Wars Racer
    
 ### Split File Details  
-Since these splits represent the most popular split orders and not all possible category combinations, these splits work best as templates. Currently LibreSplit has no GUI to edit splits. As long as split files cannot be edited in LibreSplit, you will need to manually duplicate and edit your split files. Any category details you would like to show for your run can be adjusted by editing the `"category":` section of your split file.
+Since these splits represent the most popular split orders and not all possible category combinations, these splits work best as templates. Currently LibreSplit has no GUI to edit splits. As long as split files cannot be edited in LibreSplit, you will need to manually duplicate and edit your split files. Any category details you would like to show for your run, can be adjusted by editing the `"category":` section of your split file.
 ```json
 "name": "Star Wars Episode I: Racer",
   "category": "Any%",
